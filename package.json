@@ -1,8 +1,7 @@
 {
-  "name": "wpe-headless-hello",
+  "name": "wpe-atlas-headless",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "frontend code for the WPEngine Atlas",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
